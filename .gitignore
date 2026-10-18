@@ -1,0 +1,10 @@
+.env
+*.sqlite
+*.db
+*.zip
+*credentials*
+*secret*
+*token*
+*.pem
+*.key
+.DS_Store
