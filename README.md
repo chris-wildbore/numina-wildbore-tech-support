@@ -33,6 +33,10 @@ Public contact handling, domain, HTTPS, backup/restore, and legal/privacy pages 
 - Every later portfolio entry links to private verifiable evidence; only sanitized summaries go public.
 - Preserve original source and status, including acceptance gaps.
 
+### October 24 engineering checkpoint
+
+- [Human-in-the-loop task handoff and notifications](portfolio/task-handoff-observability.md): verified phone-to-queue acknowledgements and research completion, with unattended-cycle gaps stated explicitly.
+
 ### October 21 case study update
 
 - [Low-resource home-lab operations](portfolio/low-resource-homelab.md): observed automation stages, throughput constraints, and safe boundaries for diagnosing slow media transfers.
