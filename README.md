@@ -33,8 +33,13 @@ Public contact handling, domain, HTTPS, backup/restore, and legal/privacy pages 
 - Every later portfolio entry links to private verifiable evidence; only sanitized summaries go public.
 - Preserve original source and status, including acceptance gaps.
 
-### October 24 engineering checkpoint
+### October 24 cross-source portfolio checkpoint
 
+The following examples are sanitized descriptions of demonstrated local systems, not claims of commercial deployment. The private engineering evidence catalog retains provenance, acceptance limits and unfinished work.
+
+- [Provenance-aware retrieval on repurposed Linux hardware](portfolio/provenance-aware-retrieval.md): bounded full-text archives, source integrity and local MCP tests; no fully deployed autonomous model claimed.
+- [Operations dashboards and evidence-gated accomplishment tracking](portfolio/operations-evidence-ledgers.md): source-linked spreadsheets and historically accepted Apps Script workflows; private records excluded.
+- [Evidence-gated opportunity reporting](portfolio/evidence-gated-opportunity-reporting.md): tested local prototype; no reported sales or production release.
 - [Human-in-the-loop task handoff and notifications](portfolio/task-handoff-observability.md): verified phone-to-queue acknowledgements and research completion, with unattended-cycle gaps stated explicitly.
 
 ### October 21 case study update

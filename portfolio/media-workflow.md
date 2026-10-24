@@ -18,4 +18,4 @@ The optical pipeline completed two distinct rip jobs on October 21. The first fi
 
 During a long transfer, the media host showed heavy I/O wait and near-full swap; the external SSD was attached to a USB 2.0 controller. No files were deleted, no filesystem repair was attempted, and those observations are not proof of drive failure.
 
-A related [operations case study](resource-constrained-homelab.md) describes the transferable engineering pattern without private infrastructure details.
+A related [operations case study](low-resource-homelab.md) describes the transferable engineering pattern without private infrastructure details.
