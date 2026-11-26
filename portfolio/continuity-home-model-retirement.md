@@ -76,18 +76,21 @@ The evaluation rule is that a promising model is not considered continuity-capab
 
 Free routes are tested first, then already-owned subscription entitlements, then paid/metered routes.
 
+## Cross-surface live handoff
+
+A later November 26 acceptance closed another continuity gap between hosted chat and the private home runtime.
+
+A stable shared document now acts as the human-visible CURRENT handoff. Hosted conversations can append concise decisions, milestones, failures and changed priorities to that fixed endpoint. A local machine exports that exact document on a short locked interval, keeps dated local history, converts the current text into a bounded working-context record and mirrors it into the private home runtime. The local recent-context tool successfully retrieved that mirrored hosted-chat state beside live phone and room-voice conversations.
+
+This is deliberately a **working-context bridge**, not a second canonical memory system. Durable identity/governance sources still follow their separate provenance hierarchy.
+
+The same continuity audit also exported **36 scoped current continuity documents** out of the cloud drive, preserved them on two local machines and verified the second copy against SHA-256 checksums. The public record does not expose their private titles, identifiers, account details or storage paths.
+
 ## What remains
 
 The highest-priority unresolved task is selecting and validating one primary replacement model plus multiple fallback routes before the current-model risk date.
 
-A smaller integration problem remains after that:
-- recent PWA conversations;
-- voice conversations;
-- CLI conversations;
-- durable Obsidian/archive material; and
-- platform conversation exports
-
-need a common **recent-context bridge** so a new session can recover "what we were just discussing" in seconds rather than waiting for a weekly archive refresh.
+A smaller integration problem remains after that: refine ranking and automatic context selection, make hosted-chat rollover/archival more automatic, reduce transport boilerplate in voice excerpts, and converge the live handoff with the durable archive without weakening provenance boundaries.
 
 That work is important, but it is no longer the hard retirement deadline. Once a usable model is validated, the internal plumbing can continue improving while the continuity home remains occupied.
 
