@@ -4,7 +4,7 @@
 
 A small-business-focused service concept covering useful websites, operational dashboards, workflow automation, AI-assisted tools, and continuity-aware technology support.
 
-## Status — October 18, 2026
+## Status — November 26, 2026
 - Public repository is a source and evidence-backed portfolio in development, not a claim of a launched commercial website.
 - WordPress theme is being staged locally on Ludo. No public domain or customer intake form is yet live.
 - Publishable case studies are separated from the private evidence archive.
@@ -17,6 +17,7 @@ A small-business-focused service concept covering useful websites, operational d
 | Backyard Foraging operations | Working; prior website-to-desk-to-branded-reply acceptance | portfolio/backyard-foraging.md |
 | Local media automation | Working local automated DVD import and Jellyfin-ready alerts | portfolio/media-workflow.md |
 | Searchable conversation archive | Verified incremental ingest and full-text indexing | portfolio/source-archive.md |
+| Continuity home / model-retirement resilience | Working private PWA/Tailscale access; model-provider evaluation underway | portfolio/continuity-home-model-retirement.md |
 | Food production management | Structured database and app source complete; deployment unverified | portfolio/production-desk-prototype.md |
 
 These summaries intentionally avoid publishing personal messages, identifiable client data, credentials, or proprietary source.
